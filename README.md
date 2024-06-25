@@ -1,11 +1,11 @@
-## Game_change_Box_color_RRR
+# Game_change_Box_color_RRR
 Este projeto é um Game educativo para ser executado no navegador utilizando o JavaScript e a biblioteca P5*Js; com o intuito de além do entreterimento, busca educar e concientizar os jogadores em relação as atividades de reciclagem de materiais.
 
-# Introdução
+## Introdução
 O Planeta está sendo tomado pelo lixo criado pela própria sociedade, e está enfrentando um chuva de lixo; utilize a lixeira para coletar o lixo e destina-lo ao lugar certo antes que ele caia no Planeta.
 
 
-# Como Jogar
+## Como Jogar
 - Utlize as setas do teclado para se locomover (⬅️ ⬆️ ➡️).
 - Utilize as teclas Q, W, E, e R para fazer a troca de cores ( Q = Vermelho, W = Verde, E = Azul, R = Amarelo) nesta versão ainda não foi encrementado os residuo Não reciclaveis e Orgânicos.
 
