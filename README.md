@@ -1,4 +1,4 @@
-![image](https://github.com/HenriqMarxs/Game_change_Box_color_RRR/assets/133255641/d2130128-1b3a-4561-934b-5de25607fa18)# Game_change_Box_color_RRR
+## Game_change_Box_color_RRR
 Este projeto é um Game educativo para ser executado no navegador utilizando o JavaScript e a biblioteca P5*Js
 
 #Introdução
